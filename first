@@ -1,6 +1,0 @@
-####
-##1
-##2
-git fetch origin
-git checkout -b edits origin/edits
-git merge master
